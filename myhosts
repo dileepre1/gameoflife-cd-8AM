@@ -4,3 +4,4 @@ TST ansible_ssh_host=172.31.84.253 ansible_ssh_user=root
 UAT ansible_ssh_host=172.31.84.253 ansible_ssh_user=root
 ORT ansible_ssh_host=172.31.84.253 ansible_ssh_user=root
 PROD ansible_ssh_host=172.31.84.253 ansible_ssh_user=root
+demo ansible_ssh_host=172.31.80.8 ansible_ssh_user=root
